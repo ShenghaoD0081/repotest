@@ -1,6 +1,6 @@
 # **Steps to make a Repo**
 
-## What to do in IDE
+### What to do in IDE
 
 - Get to github-learning by using _cd github-learning_
   - Make the repotest directory by using _mkdir repotest_
@@ -18,7 +18,8 @@
   - Copy this code
     - git remote add origin https://github.com/YourUsername/reponame.git
     - git push -u origin master
-    - This code should appear
+    - This code should appear in github when you make a repo
+
   - Go back to IDE and paste the code in
     - Now you can use git push and push changes everytime you add and commit something
     - It might ask you for your Username and your Password
